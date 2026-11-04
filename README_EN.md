@@ -24,12 +24,12 @@ Simplified Chinese is enabled by default, making it a practical choice for stabl
 
 ## Interface Preview
 
-| Light Mode | Dark Mode |
+| Login Page | Home Page |
 | :---: | :---: |
-| <a href="./docs/images/light-mode.png"><img src="./docs/images/light-mode.png" alt="Light Theme" width="100%" /></a> | <a href="./docs/images/dark-mode.webp"><img src="./docs/images/dark-mode.webp" alt="Dark Theme" width="100%" /></a> |
-| Status overview: system info, temperature, load and memory | Argon theme login page |
+| <a href="./docs/images/login-page.webp"><img src="./docs/images/login-page.webp" alt="Login Page" width="100%" /></a> | <a href="./docs/images/home-page.png"><img src="./docs/images/home-page.png" alt="Home Page" width="100%" /></a> |
+| Argon theme login page | Status overview: system info, temperature, load and memory |
 
-> The dark mode screenshot shows the Argon login page. The active theme can be changed under System - Language and Interface.
+> Screenshots use the Argon theme. The active theme can be changed under System - Language and Interface.
 
 ## Firmware Information
 

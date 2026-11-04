@@ -24,12 +24,12 @@
 
 ## 界面预览
 
-| 浅色模式 | 深色模式 |
+| 登录界面 | 首页 |
 | :---: | :---: |
-| <a href="./docs/images/light-mode.png"><img src="./docs/images/light-mode.png" alt="浅色模式" width="100%" /></a> | <a href="./docs/images/dark-mode.webp"><img src="./docs/images/dark-mode.webp" alt="深色模式" width="100%" /></a> |
-| 状态总览：系统信息、温度、负载与内存 | Argon 主题登录界面 |
+| <a href="./docs/images/login-page.webp"><img src="./docs/images/login-page.webp" alt="登录界面" width="100%" /></a> | <a href="./docs/images/home-page.png"><img src="./docs/images/home-page.png" alt="首页" width="100%" /></a> |
+| Argon 主题登录页面 | 状态总览：系统信息、温度、负载与内存 |
 
-> 深色模式截图为 Argon 主题登录页，实际主题外观可在「系统 - 语言和界面」中切换。
+> 截图来自 Argon 主题，实际外观可在「系统 - 语言和界面」中切换。
 
 ## 固件信息
 
